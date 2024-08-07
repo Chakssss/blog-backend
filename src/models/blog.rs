@@ -7,3 +7,5 @@ pub struct Blog {
     pub content: String,
     pub author: String
 }
+
+// blog model
